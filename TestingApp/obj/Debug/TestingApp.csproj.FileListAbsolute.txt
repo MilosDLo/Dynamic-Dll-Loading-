@@ -1,0 +1,6 @@
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\TestingApp\bin\Debug\TestingApp.exe.config
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\TestingApp\bin\Debug\TestingApp.exe
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\TestingApp\bin\Debug\TestingApp.pdb
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\TestingApp\obj\Debug\TestingApp.exe
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\TestingApp\obj\Debug\TestingApp.pdb
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\TestingApp\obj\Debug\TestingApp.csprojResolveAssemblyReference.cache

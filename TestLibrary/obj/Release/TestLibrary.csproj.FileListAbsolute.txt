@@ -1,0 +1,6 @@
+c:\Users\milos\documents\visual studio 2015\Projects\TestDll\TestLibrary\bin\Release\TestLibrary.dll
+c:\Users\milos\documents\visual studio 2015\Projects\TestDll\TestLibrary\bin\Release\TestLibrary.pdb
+c:\Users\milos\documents\visual studio 2015\Projects\TestDll\TestLibrary\obj\Release\TestLibrary.dll
+c:\Users\milos\documents\visual studio 2015\Projects\TestDll\TestLibrary\obj\Release\TestLibrary.pdb
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\TestLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\TestLibrary\bin\Release\Newtonsoft.Json.xml

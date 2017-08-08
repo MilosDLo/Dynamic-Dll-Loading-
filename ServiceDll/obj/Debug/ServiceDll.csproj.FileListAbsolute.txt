@@ -1,0 +1,9 @@
+C:\Users\milos\documents\visual studio 2015\Projects\TestDll\ServiceDll\bin\Debug\ServiceDll.exe.config
+C:\Users\milos\documents\visual studio 2015\Projects\TestDll\ServiceDll\bin\Debug\ServiceDll.exe
+C:\Users\milos\documents\visual studio 2015\Projects\TestDll\ServiceDll\bin\Debug\ServiceDll.pdb
+C:\Users\milos\documents\visual studio 2015\Projects\TestDll\ServiceDll\obj\Debug\ServiceDll.ProjectInstaller.resources
+C:\Users\milos\documents\visual studio 2015\Projects\TestDll\ServiceDll\obj\Debug\ServiceDll.Service1.resources
+C:\Users\milos\documents\visual studio 2015\Projects\TestDll\ServiceDll\obj\Debug\ServiceDll.csproj.GenerateResource.Cache
+C:\Users\milos\documents\visual studio 2015\Projects\TestDll\ServiceDll\obj\Debug\ServiceDll.exe
+C:\Users\milos\documents\visual studio 2015\Projects\TestDll\ServiceDll\obj\Debug\ServiceDll.pdb
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\ServiceDll\obj\Debug\ServiceDll.csprojResolveAssemblyReference.cache

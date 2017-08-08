@@ -1,0 +1,13 @@
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\ServiceDll\bin\Release\ServiceDll.exe.config
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\ServiceDll\bin\Release\ServiceDll.exe
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\ServiceDll\bin\Release\ServiceDll.pdb
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\ServiceDll\bin\Release\TestLibrary.dll
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\ServiceDll\bin\Release\Newtonsoft.Json.dll
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\ServiceDll\bin\Release\TestLibrary.pdb
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\ServiceDll\bin\Release\Newtonsoft.Json.xml
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\ServiceDll\obj\Release\ServiceDll.csprojResolveAssemblyReference.cache
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\ServiceDll\obj\Release\ServiceDll.ProjectInstaller.resources
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\ServiceDll\obj\Release\ServiceDll.Service1.resources
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\ServiceDll\obj\Release\ServiceDll.csproj.GenerateResource.Cache
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\ServiceDll\obj\Release\ServiceDll.exe
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\ServiceDll\obj\Release\ServiceDll.pdb

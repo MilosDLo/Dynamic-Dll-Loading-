@@ -1,0 +1,7 @@
+c:\Users\milos\documents\visual studio 2015\Projects\TestDll\TestLibrary\bin\Debug\TestLibrary.dll
+c:\Users\milos\documents\visual studio 2015\Projects\TestDll\TestLibrary\bin\Debug\TestLibrary.pdb
+c:\Users\milos\documents\visual studio 2015\Projects\TestDll\TestLibrary\obj\Debug\TestLibrary.dll
+c:\Users\milos\documents\visual studio 2015\Projects\TestDll\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\TestLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\TestLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\milos\Documents\Visual Studio 2015\Projects\TestDll\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
